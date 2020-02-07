@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Abbc-Test/static/css/main.b42cddb7.chunk.css",
+    "main.js": "/Abbc-Test/static/js/main.e8727c4f.chunk.js",
+    "main.js.map": "/Abbc-Test/static/js/main.e8727c4f.chunk.js.map",
+    "runtime-main.js": "/Abbc-Test/static/js/runtime-main.4c0f348a.js",
+    "runtime-main.js.map": "/Abbc-Test/static/js/runtime-main.4c0f348a.js.map",
+    "static/css/2.67123b20.chunk.css": "/Abbc-Test/static/css/2.67123b20.chunk.css",
+    "static/js/2.cb42217b.chunk.js": "/Abbc-Test/static/js/2.cb42217b.chunk.js",
+    "static/js/2.cb42217b.chunk.js.map": "/Abbc-Test/static/js/2.cb42217b.chunk.js.map",
+    "index.html": "/Abbc-Test/index.html",
+    "precache-manifest.fa2db9ad04be387b51cdc8f153dfd0ec.js": "/Abbc-Test/precache-manifest.fa2db9ad04be387b51cdc8f153dfd0ec.js",
+    "service-worker.js": "/Abbc-Test/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/Abbc-Test/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.b42cddb7.chunk.css.map": "/Abbc-Test/static/css/main.b42cddb7.chunk.css.map",
+    "static/js/2.cb42217b.chunk.js.LICENSE.txt": "/Abbc-Test/static/js/2.cb42217b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Abbc-Test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c0f348a.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.cb42217b.chunk.js",
+    "static/css/main.b42cddb7.chunk.css",
+    "static/js/main.e8727c4f.chunk.js"
+  ]
+}
